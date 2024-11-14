@@ -1,1 +1,1 @@
-- [Github](OZ_MAD2/github)
+- [Github](08_oz/github)
